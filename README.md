@@ -14,3 +14,8 @@ npx create-react-app ./
 npm start
 
 
+# Instlar jsx
+
+Que es jsx:
+
+
